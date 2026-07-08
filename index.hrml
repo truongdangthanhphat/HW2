@@ -23,11 +23,11 @@
     <main id="main-content">
         <div class="grid">
     <div>
-        <img src="park1.jpg" alt="Park 1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtgIti--phs1goMWl4oh0NM84oMTadli7-PYb9UTltIQ&s=10" alt="Park 1">
         <p>Thông tin công viên 1</p>
     </div>
     <div>
-        <img src="park2.jpg" alt="Park 2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT9368s4Nm2zxaj0yHsRMQcTPOzSC1k6FR6YS_frMNSQ&s=10" alt="Park 2">
         <p>Thông tin công viên 2</p>
     </div>
     </div>
