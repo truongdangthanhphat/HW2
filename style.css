@@ -1,0 +1,69 @@
+/* 3. Style the body tag */
+body {
+    font-family: Arial, sans-serif; /* Example font */
+    font-size: 16px;
+}
+
+/* 4. Style the header tag */
+header {
+    background-color: #f8f9fa;
+}
+
+/* 5. Style the nav tag */
+nav {
+    background-color: #e9ecef;
+    display: inline-block;
+    width: 80%;
+}
+nav img {
+    width: 10%;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: space-around; /* Giá trị bạn tự chọn để giống hình mẫu */
+    align-items: center;           /* Giá trị bạn tự chọn để giống hình mẫu */
+    row-gap: 20px;                 /* Giá trị bạn tự chọn để giống hình mẫu */
+}
+
+
+.grid img {
+    width: 100%;
+}
+
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;               /* Giá trị bạn tự chọn để giống hình mẫu */
+    justify-content: center;       /* Giá trị bạn tự chọn để giống hình mẫu */
+}
+/* 6. Style the main tag */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* 7. Style the footer tag */
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+/* 8. Style the li tag */
+/*
+li {
+    display: block;
+    width: 100%;
+}
+*/
+/* 9. Style the h1 tag */
+h1 {
+    text-align: center;
+    font-family: 'Verdana', sans-serif;
+    color: #007bff;
+}
+
+/* 10. Style the p tag */
+p {
+    line-height: 1.6;
+}
