@@ -21,7 +21,18 @@
     </nav>
 
     <main id="main-content">
-        <p>This is the main content area where your rules will be applied.</p>
+        <div class="grid">
+    <div>
+        <img src="park1.jpg" alt="Park 1">
+        <p>Thông tin công viên 1</p>
+    </div>
+    <div>
+        <img src="park2.jpg" alt="Park 2">
+        <p>Thông tin công viên 2</p>
+    </div>
+    </div>
+
+
     </main >
 
     <footer>
